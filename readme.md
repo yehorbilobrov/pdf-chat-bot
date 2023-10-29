@@ -1,10 +1,8 @@
-# MultiPDF Chat App
-
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
+# PDF Chat Bot 
 
 ## Introduction
 ------------
-The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+The PDF Chat Bot is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
 
 ## How It Works
 ------------
@@ -23,7 +21,7 @@ The application follows these steps to provide responses to your questions:
 
 ## Dependencies and Installation
 ----------------------------
-To install the MultiPDF Chat App, please follow these steps:
+To install the PDF Chat Bot, please follow these steps:
 
 1. Clone the repository to your local machine.
 
@@ -39,7 +37,7 @@ HUGGINGFACEHUB_API_TOKEN=your_secrit_api_key
 
 ## Usage
 -----
-To use the MultiPDF Chat App, follow these steps:
+To use the PDF Chat Bot, follow these steps:
 
 1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
 
@@ -60,4 +58,4 @@ This repository is intended for educational purposes and does not accept further
 
 ## License
 -------
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
+The PDF Chat Bot is released under the [MIT License](https://opensource.org/licenses/MIT).
